@@ -1,0 +1,13 @@
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\bin\Debug\texmsg.exe.config
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\bin\Debug\texmsg.exe
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\bin\Debug\texmsg.pdb
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\bin\Debug\texmsg.xml
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.vbproj.AssemblyReference.cache
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.vbproj.SuggestedBindingRedirects.cache
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.Form1.resources
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.Resources.resources
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.vbproj.GenerateResource.cache
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.vbproj.CoreCompileInputs.cache
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.exe
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.xml
+C:\SOURCE CODE VB\msgbox\texmsg\texmsg\obj\Debug\texmsg.pdb
